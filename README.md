@@ -38,25 +38,26 @@ This commands includes
 ### netstat:
 
 
-<img width="956" height="536" alt="cn4   1" src="https://github.com/user-attachments/assets/0f8c3cf6-1b94-49e5-beea-fe1bbe2668a2" />
+<img width="828" height="335" alt="image" src="https://github.com/user-attachments/assets/42f71e22-d4e6-48aa-952b-f50fc565135b" />
 
 
 ### ipconfig:
 
 
-<img width="998" height="932" alt="2" src="https://github.com/user-attachments/assets/27e71af3-ba64-4bed-915c-2e8d9ffae168" />
+<img width="552" height="568" alt="image" src="https://github.com/user-attachments/assets/e8406d1e-508f-4e99-871f-aa3d52ca0502" />
+
 
 
 ### ping:
 
+<img width="870" height="603" alt="image" src="https://github.com/user-attachments/assets/bd05d7ff-a40e-48ab-85ec-3f1adcf317a4" />
 
-<img width="938" height="312" alt="3" src="https://github.com/user-attachments/assets/22cc7fe8-e183-4c24-859e-753223620a43" />
 
 
 ### tracert:
 
+<img width="878" height="345" alt="image" src="https://github.com/user-attachments/assets/05c95900-d322-4b0b-a3e7-637bbb1d782c" />
 
-<img width="1061" height="560" alt="4" src="https://github.com/user-attachments/assets/fc15816a-ccf4-4ea4-8123-9c353560aeef" />
 
 ### nslookup:
 
@@ -71,14 +72,12 @@ This commands includes
 
 ### hostname:
 
-
-<img width="722" height="82" alt="7" src="https://github.com/user-attachments/assets/37260091-e6ef-473c-949c-d467d6d6fb5c" />
+<img width="315" height="66" alt="image" src="https://github.com/user-attachments/assets/1a0a7026-a4cc-40da-9427-daec066ae31e" />
 
 
 ### arp:
 
-
-<img width="1068" height="778" alt="8" src="https://github.com/user-attachments/assets/6b096bb4-7711-43e8-8f7e-c8ef34e81dfb" />
+<img width="939" height="595" alt="image" src="https://github.com/user-attachments/assets/26354e4e-8953-4a91-b902-e011deeac449" />
 
 
 ### systeminfo:
@@ -90,8 +89,7 @@ This commands includes
 
 ### netsh wlan show profiles :
 
-
-<img width="813" height="928" alt="image" src="https://github.com/user-attachments/assets/4c23ad83-be6f-4b58-a8e5-0e10b60e3f0c" />
+<img width="541" height="638" alt="image" src="https://github.com/user-attachments/assets/998c1bcc-767f-4bcb-934c-78272a62420c" />
 
 
 
